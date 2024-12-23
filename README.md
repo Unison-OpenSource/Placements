@@ -12,7 +12,7 @@ This repository is designed to help students and professionals prepare for place
 - **Interview Prep**: HR and technical interview questions, mock interview resources.  
 - **Company-Specific Materials**: Insights and past questions from top companies.  
 - **Resume Building**: Templates and tips for crafting an impactful resume.  
-
+https://drive.google.com/drive/folders/1iKiq-ZbI3dTN0igO8xRnyaWJF_RCf2Ym
 ---
 
 ## 🤝 How Can You Contribute?  
